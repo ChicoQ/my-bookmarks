@@ -11,3 +11,9 @@ https://code.visualstudio.com/docs/python/testing
 
 https://github.com/zakkyakhtar/pytest-pyspark
 
+## ImageIO with TIFF
+
+https://stackoverflow.com/questions/61353106/spark-when-reading-tif-images-dataframe-only-contains-rows-with-empty-byte-arra
+
+https://stackoverflow.com/questions/1954685/cant-read-and-write-a-tiff-image-file-using-java-imageio-standard-library/16814295#16814295
+
